@@ -31,6 +31,9 @@ unset($CFG);  // Ignore this line
 global $CFG;  // This is necessary here for PHPUnit execution
 $CFG = new stdClass();
 
+// Change another file.
+// A couple of lines.
+
 //=========================================================================
 // 1. DATABASE SETUP
 //=========================================================================
